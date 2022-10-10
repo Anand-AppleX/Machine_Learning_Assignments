@@ -1,1 +1,1 @@
-# Machine_Learning_Assignments
+# INeuron Machine_Learning_Assignments
